@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Appa, a BI Manager 🚀 from India. Currently, I'm learning ML, DL, CV & NLP. Beside's programming,I love to play with data.</h1>
-<h3 align="center">Bi Analyst In Bajaj Finserv and Intrested In Data Scientist role.</h3>
+<h3 align="center">Bi Manager In Bajaj Finserv and Intrested In Data Scientist role.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanappa&label=Profile%20views&color=0e75b6&style=flat" alt="roshanappa" /> </p>
 
