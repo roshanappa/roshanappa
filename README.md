@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshanappa" alt="roshanappa" /></a> </p>
 
-- 🔭 I’m currently working on **Power Bi Data Analytics**
+- 🔭 I’m currently working on **Assistant Manager In Data Analytics**
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning,NLP,Computer Vision**
 
