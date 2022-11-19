@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://roshanappa.medium.com/](https://roshanappa.medium.com/)
 
-- 💬 Ask me about **Machine Learning,Stats,PowerBi,Python,Data Visualization.**
+- 💬 Ask me about **Machine Learning,Stats,PowerBi,Python,Data Visualization & AI.**
 
 - 📫 How to reach me **roshanappa4@gmail.com**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/roshanappa20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/roshanappa/](https://www.linkedin.com/in/roshanappa/)" height="30" width="40" /></a>
 <a href="https://medium.com/@roshanappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roshanappa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfhropl-fvori2pwzeevntw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfhropl-fvori2pwzeevntw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCFHROPl-fVoRI2pwzeEVnTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfhropl-fvori2pwzeevntw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
