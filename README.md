@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/roshan-appa-%F0%9F%87%AE%F0%9F%87%B3-a88775256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshanappa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roshan-appa-%F0%9F%87%AE%F0%9F%87%B3-a88775256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshanappa/" height="30" width="40" /></a>
 <a href="https://medium.com/@roshanappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roshanappa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfhropl-fvori2pwzeevntw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfhropl-fvori2pwzeevntw" height="30" width="40" /></a>
 </p>
